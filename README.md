@@ -1,5 +1,6 @@
 # E-Commerce-Public-Dataset
 ## Setup Environment 
+```bash
 1. python -- version
 2. pip --version
 3. cd %USERPROFILE%\Downloads

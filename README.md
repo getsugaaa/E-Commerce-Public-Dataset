@@ -6,6 +6,8 @@
 3. cd %USERPROFILE%\Downloads
 4. pip install streamlit
 5. pip install -r requirements.txt
+```
 
 ## Run Streamlit app
 streamlit run dashboard.py
+```

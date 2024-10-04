@@ -1,6 +1,6 @@
 # E-Commerce-Public-Dataset
 ## Setup Environment 
-python -- version
+python -- version /
 pip --version
 cd %USERPROFILE%\Downloads
 pip install streamlit
